@@ -8,6 +8,12 @@ cd ./javascript
 npm install
 npm run test
 ```
+### How to test algorithm in Java
+```
+cd ./java/blind_75
+mvn install
+mvn test
+```
 
 ## Arrays & Hashing
 ### 1. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
